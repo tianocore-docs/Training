@@ -1,0 +1,18 @@
+This Directory contains the Presentations for the UEFI / EDK II Base training.
+
+It covers:
+  PEI, DXE, BDS Boot phases. 
+  Firmware Storage
+  Human Interface Infrastructure (HII)
+  UEFI Driver Development and UEFI Driver Model
+  UEFI Shell 2.0
+  EDK II Build Overview and Build Tools
+  How to Build UEFI Applications
+  Platform Configuration Database (PCD)
+  Porting Projects using EDK II
+  EDK II Debbuging and the UEFI Software Debugger
+  EDK Compatiblity Package (ECP)
+
+
+
+
